@@ -13,5 +13,6 @@ int main() {
 	cout << "Hello World!" << endl;
 	cout << "New line of text.\n";
 	cout << "Non fast-forward.\n";
+	cout << "Mac adds a line of text.\n";
 	return 0;
 }
