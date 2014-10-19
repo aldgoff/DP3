@@ -12,5 +12,6 @@ using namespace std;
 int main() {
 	cout << "Hello World!" << endl;
 	cout << "New line of text.\n";
+	cout << "Non fast-forward.\n";
 	return 0;
 }
